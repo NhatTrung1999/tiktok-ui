@@ -1,0 +1,17 @@
+@import 'normalize.css';
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@500');
+
+:root {
+    --primary: #fe2c55;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Cabin', sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5rem;
+    text-rendering: optimizeSpeed;
+}
